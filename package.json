@@ -1,0 +1,30 @@
+{
+  "name": "slack-app-api",
+  "version": "1.0.0",
+  "description": "API for test Slack API features.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onildoaguiar/slack-app-api.git"
+  },
+  "keywords": [
+    "slack",
+    "api",
+    "test",
+    "javascript"
+  ],
+  "author": "Onildo Aguiar <onildo.aguiar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onildoaguiar/slack-app-api/issues"
+  },
+  "homepage": "https://github.com/onildoaguiar/slack-app-api#readme",
+  "dependencies": {
+    "@slack/client": "^3.16.0",
+    "dotenv": "^5.0.0"
+  }
+}

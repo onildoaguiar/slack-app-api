@@ -1,2 +1,2 @@
-# slack-jenkins-api
-API for communication between Slack and Jenkins.
+# About
+API for test Slack API features.
